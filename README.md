@@ -493,7 +493,7 @@ https://wokwi.com/projects/431453059341131777
 
 ## *Video demo*
 
-[Simulación Wokwi](https://alumnosunir-my.sharepoint.com/:v:/g/personal/joseluis_darias769_comunidadunir_net/EcQx14AAzslBqxVsYXH3FIIB8Oo2MxHQvvEeu73YSBeJAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fsBu8U)
+[Simulación Wokwi](https://alumnosunir-my.sharepoint.com/:v:/g/personal/joseluis_darias769_comunidadunir_net/EcQx14AAzslBqxVsYXH3FIIB8Oo2MxHQvvEeu73YSBeJAQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qIaL5f)
 
 ## *Autores*
 
